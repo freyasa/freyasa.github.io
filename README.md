@@ -1,50 +1,51 @@
-Basic Info.
+## Basic Info.
+#### Mandy Sa
 
-Mandy Sa
+​	Male, 19 years old
 
-	Male, 19 years old
+​	Computer Science, Ningxia University Bachelor's degree in reading
 
-	Computer Science, Ningxia University Bachelor's degree in reading
+​	Current City: WuHai, Innermonglia
 
-	Current City: WuHai, Innermonglia
+​	QQ: mandysaa
 
-	QQ: mandysaa
-
-	Email: emma@nxu.edu.cn
-
+​	Email: emma@nxu.edu.cn
 
 
-Education
 
-	2020.9 - 				 Ningxia University	Computer Science Bachelor | Professional GPA: 3.56/4.0
+## Education
 
+​	2020.9 - 				 Ningxia University	Computer Science Bachelor | Professional GPA: 3.56/4.0
 
 
 
 
-Award Options
 
-Contest
+## Award Options
 
-	The 2020 ICPC China Ningxia Provincial Programming Contest: Bronze Medal	2020.10
+#### Contest
 
-	The 2020 ICPC China Northwest Provincial Programming Contest: Bronze Medal	2020.10
+​	The 2020 ICPC China Ningxia Provincial Programming Contest: Bronze Medal	2020.10
 
-	LAN QIAO International Collegiate Programming Contest Ningxia Province: First Prize	2021.04
+​	**The 2020 ICPC China Northwest Provincial Programming Contest: Bronze Medal**	2020.10
 
-
-
-Project
-
-	Network parent seeking system based on cross age face recognition Ningxia provincial level	2021.04 - 2022.04
+​	LAN QIAO International Collegiate Programming Contest Ningxia Province: First Prize	2021.04
 
 
 
-Leadership Ability
+#### Project
 
-	2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
+​	Network parent seeking system based on cross age face recognition Ningxia provincial level	2021.04 - 2022.04
 
 
+
+## Leadership Ability
+
+​	2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
+
+
+
+#### 
 
 
 
