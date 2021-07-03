@@ -1,41 +1,51 @@
-# Welcome to GitHub Pages
-## Welcome to GitHub Pages
-### Welcome to GitHub Pages
-#### Welcome to GitHub Pages
-##### Welcome to GitHub Pages
+Basic Info.
 
-You can use the [editor on GitHub](https://github.com/freyasa/freyasa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Mandy Sa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	Male, 19 years old
 
-### Markdown
+	Computer Science, Ningxia University Bachelor's degree in reading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	Current City: WuHai, Innermonglia
 
-```markdown
-Syntax highlighted code block
+	QQ: mandysaa
 
-# Header 1
-## Header 2
-### Header 3
+	Email: emma@nxu.edu.cn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Education
 
-[Link](url) and ![Image](src)
-```
+	2020.9 - 				 Ningxia University	Computer Science Bachelor | Professional GPA: 3.56/4.0
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freyasa/freyasa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Award Options
+
+Contest
+
+	The 2020 ICPC China Ningxia Provincial Programming Contest: Bronze Medal	2020.10
+
+	The 2020 ICPC China Northwest Provincial Programming Contest: Bronze Medal	2020.10
+
+	LAN QIAO International Collegiate Programming Contest Ningxia Province: First Prize	2021.04
+
+
+
+Project
+
+	Network parent seeking system based on cross age face recognition Ningxia provincial level	2021.04 - 2022.04
+
+
+
+Leadership Ability
+
+	2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
+
+
+
+
+
+
