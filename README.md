@@ -13,6 +13,7 @@ Email: emma@nxu.edu.cn
 
 
 
+
 ## Education
 
 2020.9 - 	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
@@ -33,9 +34,11 @@ LAN QIAO International Collegiate Programming Contest Ningxia Province: First Pr
 
 
 
+
 #### Project
 
 Network parent seeking system based on cross age face recognition Ningxia provincial level	2021.04 - 2022.04
+
 
 
 
