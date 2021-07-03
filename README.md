@@ -5,7 +5,7 @@ Male, 19 years old
 
 Computer Science, Ningxia University Bachelor's degree in reading
 
-Current City: WuHai, Innermonglia
+Current City: WuHai, Innermongolia
 
 WeChat: mandy_freya
 
