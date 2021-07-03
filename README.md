@@ -1,15 +1,15 @@
 ## Basic Info.
 #### Mandy Sa
 
-​	  Male, 19 years old
+	  Male, 19 years old
 
-​	  Computer Science, Ningxia University Bachelor's degree in reading
+	  Computer Science, Ningxia University Bachelor's degree in reading
 
-​	  Current City: WuHai, Innermonglia
+	  Current City: WuHai, Innermonglia
 
-​	  QQ: mandysaa
+	  QQ: mandysaa
 
-​	  Email: emma@nxu.edu.cn
+	  Email: emma@nxu.edu.cn
 
 
 
