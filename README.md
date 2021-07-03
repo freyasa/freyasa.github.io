@@ -7,7 +7,7 @@ Computer Science, Ningxia University Bachelor's degree in reading
 
 Current City: WuHai, Innermonglia
 
-QQ: mandysaa
+WeChat: mandy_freya
 
 Email: emma@nxu.edu.cn
 
