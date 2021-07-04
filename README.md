@@ -9,14 +9,14 @@ Current City: WuHai, Innermongolia
 
 WeChat: [mandy_freya](https://u.wechat.com/EF_LRmh3faRzLXCKzjG8M5Y)
 
-Email: emma@nxu.edu.cn
+Email: [emma@nxu.edu.cn]
 
 
 
 
 ## Education
 
-2020.9 - Now	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
+2020.9 - Now	[Ningxia University](https://www.nxu.edu.cn)	Computer Science Bachelor  Professional GPA: 3.56/4.0
 
 
 
