@@ -16,7 +16,7 @@ Email: emma@nxu.edu.cn
 
 ## Education
 
-2020.9 - 	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
+2020.9 - now	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
 
 
 
@@ -46,5 +46,5 @@ Network parent seeking system based on cross age face recognition Ningxia provin
 
 2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
 
-2021.7 - 			    ACM - ICPC Ningxia University Team Leader
+2021.7 - Now	ACM - ICPC Ningxia University Team Leader
 
