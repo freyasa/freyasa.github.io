@@ -9,7 +9,7 @@ Current City: WuHai, Innermongolia
 
 WeChat: mandy_freya
 
-Email: emma@nxu.edu.cn
+Email: emma[at]nxu.edu.cn
 
 
 
