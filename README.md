@@ -28,7 +28,7 @@ Email: emma@nxu.edu.cn
 
 The 2020 ICPC China Ningxia Provincial Programming Contest: Bronze Medal	2020.10
 
-**The 2020 ICPC China Northwest Provincial Programming Contest: Bronze Medal**	2020.10
+**The 2020 ICPC China Northwest Provincial Programming Contest: Bronze Medal	2020.10**
 
 LAN QIAO International Collegiate Programming Contest Ningxia Province: First Prize	2021.04
 
