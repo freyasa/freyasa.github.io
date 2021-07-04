@@ -1,15 +1,15 @@
 ## Basic Info.
 #### Mandy Sa
 
-Male, 19 years old
+  Male, 19 years old
 
-Computer Science, Ningxia University Bachelor's degree in reading
+  Computer Science, Ningxia University Bachelor's degree in reading
 
-Current City: WuHai, Innermongolia
+  Current City: WuHai, Innermongolia
 
-WeChat: [mandy_freya](https://u.wechat.com/EF_LRmh3faRzLXCKzjG8M5Y)
+  WeChat: [mandy_freya](https://u.wechat.com/EF_LRmh3faRzLXCKzjG8M5Y)
 
-Email: emma@nxu.edu.cn
+  Email: emma@nxu.edu.cn
 
 
 
