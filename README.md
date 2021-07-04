@@ -7,9 +7,9 @@ Computer Science, Ningxia University Bachelor's degree in reading
 
 Current City: WuHai, Innermongolia
 
-WeChat: mandy_freya
+WeChat: [mandy_freya](https://u.wechat.com/EF_LRmh3faRzLXCKzjG8M5Y)
 
-Email: emma[at]nxu.edu.cn
+Email: emma@nxu.edu.cn
 
 
 
@@ -45,11 +45,4 @@ Network parent seeking system based on cross age face recognition Ningxia provin
 ## Leadership Ability
 
 2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
-
-
-
-
-
-
-
 
