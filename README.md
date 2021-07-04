@@ -16,7 +16,7 @@ Email: emma@nxu.edu.cn
 
 ## Education
 
-2020.9 - now	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
+2020.9 - Now	Ningxia University	Computer Science Bachelor  Professional GPA: 3.56/4.0
 
 
 
