@@ -44,7 +44,7 @@ Network parent seeking system based on cross age face recognition Ningxia provin
 
 ## Leadership Ability
 
-2020.9 - 2022.3	2020 Computer Science Class 6	 Monitor	Ningxia University
+2020.9 - Now	2020 Computer Science Class 6	 Monitor	Ningxia University
 
 2021.6 - Now	ACM - ICPC Ningxia University Team Leader
 
