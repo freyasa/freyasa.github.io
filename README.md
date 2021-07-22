@@ -1,5 +1,5 @@
 ## Basic Info.
-#### Mandy Sa
+#### Xue Ziqi
 
   Male, 19 years old
 
@@ -16,7 +16,7 @@
 
 ## Education
 
-2020.9 - Now	[Ningxia University](https://www.nxu.edu.cn)	Computer Science Bachelor  Professional GPA: 3.56/4.0
+2020.9 - Now	[Ningxia University](https://www.nxu.edu.cn)	Computer Science Bachelor  Professional GPA: 3.66/4.0
 
 
 
@@ -44,7 +44,7 @@ Network parent seeking system based on cross age face recognition Ningxia provin
 
 ## Leadership Ability
 
-2020.9 - 2022.3	2020 Computer Class 6	 Monitor	Ningxia University
+2020.9 - 2022.3	2020 Computer Science Class 6	 Monitor	Ningxia University
 
 2021.6 - Now	ACM - ICPC Ningxia University Team Leader
 
